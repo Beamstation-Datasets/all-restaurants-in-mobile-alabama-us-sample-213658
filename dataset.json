@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Mobile, Alabama with a population of over 187k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Mobile, Alabama, US",
+  "export_job_id": "a131a074-0ac3-497d-aa95-7863d47c6383",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 213658,
+  "location_name": "Mobile",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-mobile-alabama-us-sample-213658",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/213658/beamstation_213658_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_pct": 7.14,
+  "sample_records": 25,
+  "sample_sha256": "ab9fa92c1d8ea6ca37047055e6653c9945995e1b1a723c6aec01795cfd8f8214",
+  "sample_size_bytes": 113372,
+  "total_records": 350,
+  "updated_at": "2026-03-31T12:38:40.600402+00:00"
+}
