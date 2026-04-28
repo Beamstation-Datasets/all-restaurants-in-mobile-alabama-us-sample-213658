@@ -1,12 +1,12 @@
 {
-  "export_job_id": "86a067db-0022-4466-b1e9-0c16cc1cd1f6",
+  "export_job_id": "1d75c7b9-fd5c-4e40-935e-cd09ebd604a6",
   "id_short": 213658,
-  "published_at": "2026-04-21T19:11:09Z",
+  "published_at": "2026-04-28T19:39:39Z",
   "repo_name": "all-restaurants-in-mobile-alabama-us-sample-213658",
   "sample_asset_name": "beamstation_213658_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/213658/beamstation_213658_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "fe9e804d172a3e2818e3dbf9e30e6290f868bc48b4e88527725c7938456feef9",
-  "sample_size_bytes": 175337,
-  "total_records": 466
+  "sample_records": 67,
+  "sample_sha256": "b00f6db8ec7e13fe977da3c83202b5846275ff53f6e12d4fe3e993eec9a28c94",
+  "sample_size_bytes": 211193,
+  "total_records": 677
 }
